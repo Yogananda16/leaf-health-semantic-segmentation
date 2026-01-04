@@ -4,7 +4,7 @@
 Manual inspection of plant health is slow and inconsistent. This project applies transformer-based deep learning to perform **semantic segmentation of leaf health**, classifying each pixel as **background**, **healthy leaf**, or **dry leaf**. The solution supports automated plant health monitoring and can be extended to broader agricultural and environmental applications.
 
 ## Dataset
-- ~200 real leaf images captured using a mobile phone camera  
+- ~200 real leaf images captured using a mobile phone camera in University of New Haven Campus
 - Pixel-level annotations created manually using **CVAT**  
 - Classes:
   - 0: Background  
